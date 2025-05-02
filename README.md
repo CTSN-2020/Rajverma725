@@ -2,21 +2,31 @@
 
 # Raj Verma ✨
 
-Hi there! 👋 I'm Raj, an MSc AI/ML student at IIIT Lucknow, passionate about Machine Learning, Deep Learning, and building real-world AI solutions.
+Hi there! 👋 I'm **Raj Verma**, an MSc AI/ML student at IIIT Lucknow, passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI.
 
-🌱 **Currently learning:** Generative AI, Computer Vision, and LLMs  
-💻 **Projects:**  
-- Breast Cancer Detection using ML  
-- Employee Attrition Prediction  
-- Car Price Prediction  
-- IPL Winning Team Prediction  
-- Doodle to Image (Deep Learning)  
-- PDF Summarizer using RAG  
-- Diabetes Patients Prediction  
+### 🌱 Currently Learning
+- Generative AI and LLMs
+- Computer Vision (CV) and NLP
+- PyTorch and TensorFlow
 
-🚀 **What I’m working on:** Improving my skills in PyTorch & TensorFlow for deep learning projects.
+### 💻 Notable Projects
+- 🩺 Breast Cancer Detection using ML
+- 🏢 Employee Attrition Prediction
+- 🚗 Car Price Prediction
+- 🏏 IPL Winning Team Prediction
+- 🎨 Doodle to Image (Deep Learning)
+- 📄 PDF Summarizer using RAG
+- 🩸 Diabetes Patients Prediction
 
-📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/raj72626) | [Email](mailto:rajverma.iiitlucknow@gmail.com)
+### 🚀 What I’m Working On
+Improving deep learning skills, experimenting with diffusion models, and building cool AI applications.
 
-⭐ Check out my pinned repositories below!
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/raj72626)  
+[Email](mailto:rajverma.iiitlucknow@gmail.com)
+
+### ⚡ GitHub Stats
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajverma725&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajverma725&layout=compact&theme=radical)
+
+⭐ **Check out my pinned repositories below!**
