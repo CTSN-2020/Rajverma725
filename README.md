@@ -3,6 +3,9 @@
 # Raj Verma ✨
 
 Hi there! 👋 I'm **Raj Verma**, an MSc AI/ML student at IIIT Lucknow, passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI.
+I’m driven by curiosity, creativity, and a mission to build AI systems that make a positive impact.
+Currently open to internship or research roles in AI/ML.
+I run a ‘Study Hustle’ YouTube channel to motivate learners worldwide!
 
 ### 🌱 Currently Learning
 - Generative AI and LLMs
