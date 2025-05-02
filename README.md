@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Rajverma725/Rajverma725/main/mingle poster.png)
+
 # Raj Verma ✨
 
 Hi there! 👋 I'm Raj, an MSc AI/ML student at IIIT Lucknow, passionate about Machine Learning, Deep Learning, and building real-world AI solutions.
