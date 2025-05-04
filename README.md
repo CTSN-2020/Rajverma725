@@ -32,8 +32,7 @@
  ![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajverma725&show_icons=true&theme=radical)  
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajverma725&layout=compact&theme=radical)
  
- ⭐ **Check out my pinned repositories below!**## Hi there 👋
-
+ ⭐ **Check out my pinned repositories below!**##
 <!--
 **Rajverma725/Rajverma725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
