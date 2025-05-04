@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Rajverma725/Rajverma725/main/mingle poster.png)
+![Banner](https://raw.githubusercontent.com/Rajverma725/Rajverma725/main/Raj Verma.png)
 
 # Raj Verma ✨
 
